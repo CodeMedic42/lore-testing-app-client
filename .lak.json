@@ -1,0 +1,4 @@
+{
+  "databaseUrl": "postgres://lak:lak@localhost:55432/lak_test",
+  "note": "Test fixture. Any agent session in this repository reads and writes the throwaway graph, never a real one. Committed so the repository carries this wherever it goes."
+}
